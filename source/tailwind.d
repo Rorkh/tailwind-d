@@ -12,6 +12,9 @@ class TailwindException : Exception
     mixin basicExceptionCtors;
 }
 
+/**
+    * Tailwind cli manager class
+*/
 class Tailwind
 {
     private:
@@ -56,7 +59,7 @@ class Tailwind
         bool noConfig = false;
 
         /**
-            * Writes tailwind config file to specified path (if it's not empty) or default location
+            * Writes tailwind config file to specified path or default location
         */
         void install_configuration(string configPath)
         {
