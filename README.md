@@ -20,4 +20,4 @@ dub add tailwind-d
 
 # Examples
 
-Minimal hello world example: [link](https://github.com/Rorkh/tailwind.d-vibe.d/ "Minimal "Hello world" example")
+Minimal hello world example: [link](https://github.com/Rorkh/tailwind.d-vibe.d/)
