@@ -4,7 +4,7 @@
 	],
 	"copyright": "Copyright © 2023, Rorkh",
 	"description": "A minimal D application.",
-	"license": "proprietary",
+	"license": "MIT",
 	"name": "tailwind-d",
 	"targetType": "library",
 
