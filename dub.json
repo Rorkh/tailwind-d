@@ -1,8 +1,8 @@
 {
 	"authors": [
-		"Zeantar"
+		"https://github.com/Rorkh"
 	],
-	"copyright": "Copyright © 2023, Zeantar",
+	"copyright": "Copyright © 2023, Rorkh",
 	"description": "A minimal D application.",
 	"license": "proprietary",
 	"name": "tailwind-d",
