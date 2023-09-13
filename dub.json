@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Zeantar"
+	],
+	"copyright": "Copyright © 2023, Zeantar",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "tailwind-d",
+	"targetType": "library",
+
+	"stringImportPaths": ["resources"],
+	"buildOptions": ["releaseMode", "optimize"]
+}
