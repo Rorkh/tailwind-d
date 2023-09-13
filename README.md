@@ -4,7 +4,7 @@
 
 Tailwind for D lang.
 
-# Prequisites
+# Prerequisites
 
 To use Tailwind.d you need to install Tailwind CLI.
 
