@@ -3,7 +3,7 @@
 		"https://github.com/Rorkh"
 	],
 	"copyright": "Copyright © 2023, Rorkh",
-	"description": "A minimal D application.",
+	"description": "Tailwind for D lang",
 	"license": "MIT",
 	"name": "tailwind-d",
 	"targetType": "library",
